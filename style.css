@@ -1,0 +1,28 @@
+ul {
+    list-style-type: none;
+}
+.divcha {
+    width: 150%;
+    height: 200px;
+    background-color: aqua;
+    position: relative;
+    right: 0;
+}
+.divcon{
+    width: 100%;
+    height: 50px;
+    background-color: blue;
+    position: absolute;
+    top: 35%;
+    left: 50px;
+}
+body{
+    height: 2000px;
+}
+.divcon2{
+    width: 60px;
+    height: 60px;
+    background-color: brown;
+    z-index: 12;
+
+}
